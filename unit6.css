@@ -1,0 +1,21 @@
+.suchi{height: 300px}
+main{
+  background-color: black;
+  color: white
+}
+body{
+  background-image: url("school.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+#wrapper{
+  width: 60%;
+  margin:auto ;
+  margin-top: 30px;
+}
+ul{list-style-image:url("rick.png"); } 
+#body{
+  border: 10px solid;
+  padding: 15px;
+  border-image: url("https://mdn.github.io/css-examples/tools/border-image-generator/border-image-1.png") 30 round;
+}
